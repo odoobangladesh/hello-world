@@ -1,2 +1,2 @@
 # hello-world
-This is a test message to cimmit.
+This is a test message to commit.
